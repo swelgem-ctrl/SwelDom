@@ -1,0 +1,9 @@
+{
+  "app_name": "Sweldom",
+  "latest_version": "1.2.0",
+  "release_date": "2025-05-15",
+  "download_url": "https://github.com/sweldom-app/sweldom/releases/download/v1.2.0/Sweldom_v1.2.0.zip",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "release_notes_en": "Sweldom v1.2.0 Flagship Master Release: Smart Download Scheduler (PROP-015), YouTube Chapters Splitter (PROP-016), URL Pattern & Sequence Generator (PROP-017), Built-in Local FFmpeg Media Converter (PROP-018), Smart Webpage Media & File Grabber (PROP-019), Automatic ID3 Cover Art & Metadata Embedder for SoundCloud & YouTube MP3s (PROP-020), Queue Priority Engine High/Normal/Low (PROP-021), 1-Click Work/Home PC Sync Bundle (PROP-022), Pro Keyboard Shortcuts (PROP-023), and Disk Space Guard & Live Indicator (PROP-024), alongside full SoundCloud support (FEAT-005) and all v1.1.0 features (FEAT-004, PROP-001..014).",
+  "release_notes_ar": "الإصدار الاحترافي المتكامل Sweldom v1.2.0: المجدول الزمني الذكي للتحميلات (PROP-015)، مقسّم فصول يوتيوب (PROP-016)، مولّد الروابط المتسلسلة والمرقمة (PROP-017)، محول الصيغ المحلي المدمج بدون إعادة تحميل (PROP-018)، مقتنص ملفات ووسائط صفحات الويب (PROP-019)، الدمج التلقائي لغلاف الألبوم والوسوم الصوتية ID3 لملفات MP3 من SoundCloud ويوتيوب (PROP-020)، نظام أولويات الطابور (PROP-021)، حزمة المزامنة الفورية بين جهاز الشغل والبيت (PROP-022)، اختصارات لوحة المفاتيح الاحترافية (PROP-023)، وحارس ومؤشر المساحة الحرة على القرص (PROP-024)."
+}
